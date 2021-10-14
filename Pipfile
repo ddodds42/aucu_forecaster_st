@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+category-encoders = "==2.2.*"
+numpy = "==1.21.*"
+pandas = "==1.3.*"
+python-dateutil = "==2.8.*"
+scikit-learn = "==0.24.*"
+streamlit = "==0.88.*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
