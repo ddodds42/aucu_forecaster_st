@@ -1,4 +1,4 @@
-# streamlit_demo
+# Miami AUCU Wait-time Forecaster on Streamlit
 
 Run
 ```
